@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Ftechnologytrenz%2F7-top-reactjs-development-tips-to-build-an-awesome-website-3md1&psig=AOvVaw0P-aihl-5U6sUWbJMaCLaX&ust=1631200501526000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjCmcfV7_ICFQAAAAAdAAAAABAD">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif">
 </img>
 </p>
 
