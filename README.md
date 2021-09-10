@@ -36,3 +36,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir9009&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir9009&layout=compact&theme=monokai&langs_count=12"/>
 </p>
+
+## My resume
+[amirhosein nemati resume.pdf](https://github.com/amir9009/amir9009/blob/main/resume_7681631286948.pdf)
