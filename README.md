@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 </p>
 
 ## My resume
-[amirhosein nemati resume.pdf](https://github.com/amir9009/amir9009/blob/main/resume_7681631286948.pdf)
+[amirhosein nemati resume.pdf](https://github.com/amir9009/amir9009/raw/main/resume_7681631286948.pdf)
