@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ## My Stats
-/github/watchers/:user/:repo?label=Watch
+![github](https://github/watchers/:user/:repo?label=Watch)&nbsp;
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amir9009&show_icons=true&include_all_commits=true&theme=monokai" alt="amir9009's GitHub stats" /><br />
