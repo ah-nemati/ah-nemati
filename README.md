@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 
 
 ## My Stats
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=simorgh77&show_icons=true&include_all_commits=true&theme=monokai)
-![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simorgh77&layout=compact&theme=monokai&langs_count=12) -->
+/github/watchers/:user/:repo?label=Watch
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amir9009&show_icons=true&include_all_commits=true&theme=monokai" alt="amir9009's GitHub stats" /><br />
