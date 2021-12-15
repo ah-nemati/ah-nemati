@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 
 
 ## My Stats
-![github](https://shields-io-visitor-counter.herokuapp.com/badge?page=ah-nemati&color=1D70B8&logo=GitHub&logoColor=FFFFFF&style=flat-square)&nbsp;
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ah-nemati&show_icons=true&include_all_commits=true&theme=monokai" alt="ah-nemati's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ah-nemati&theme=monokai"/>
