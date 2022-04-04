@@ -43,6 +43,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-nemati&layout=compact&theme=monokai&langs_count=12"/>
 </p>
 
-<!-- ## My resume
-[amirhosein nemati resume.pdf](https://github.com/ah-nemati/ah-nemati/blob/main/amirhosein%20nemati.pdf) -->
+## My resume
+[amirhosein nemati resume.pdf](https://github.com/ah-nemati/ah-nemati/blob/main/Resume-Amir-Hosein-Nemati.pdf)
 
