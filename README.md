@@ -1,48 +1,39 @@
-### Hi there 👋
-
-<!--
-**ah-nemati/ah-nemati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋, I'm Amir-Hosein Nemati
 
 <p align="center">
-<img src="https://github.com/ah-nemati/ah-nemati/blob/main/react.gif"></img>
+  <img src="https://github.com/ah-nemati/ah-nemati/blob/main/react.gif" alt="coding gif" width="300"/>
 </p>
 
-<p> What i Know</p>
+I am a **Frontend Developer** specialized in **React, Next.js, JavaScript, and TypeScript**.  
+I also have experience with **Python** and **Large Language Models (LLMs)**.  
+I build **modern, responsive, and high-performance web applications**.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Next JS](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+---
 
+## 🛠 Main Skills
 
-## My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ah-nemati&show_icons=true&include_all_commits=true&theme=monokai" alt="ah-nemati's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ah-nemati&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ah-nemati&layout=compact&theme=monokai&langs_count=12"/>
-</p>
+- **Frontend Development:** React, Next.js, JavaScript, TypeScript, Responsive UI, Web Performance  
+- **Other Skills:** Python, Working with LLMs, Data Processing, Automation  
 
-<!-- ## My resume -->
-<!-- [amirhosein nemati resume.pdf](https://github.com/ah-nemati/ah-nemati/blob/main/Resume-Amir-Hosein-Nemati.pdf) -->
+---
 
+## 🌐 About Me
+
+- Passionate about **modern web development**, clean code, and creating interactive UIs  
+- Experienced in **frontend frameworks, state management, and API integration**  
+- Continuously learning **new technologies, AI tools, and web performance optimization**  
+- Always exploring ways to **improve code quality, maintainability, and scalability**  
+
+---
+
+## 📫 Contact Me
+
+- **Email:** [nemati.Amh@gmail.com](mailto:nemati.Amh@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ah-nemati](https://linkedin.com/in/ah-nemati)  
+- **GitHub:** [github.com/ah-nemati](https://github.com/ah-nemati)  
+
+---
+
+## 🔑 Keywords
+
+Frontend Developer, React Developer, Next.js Developer, TypeScript, JavaScript, Python, LLM, AI, Web Development, Responsive UI, GitHub Profile
